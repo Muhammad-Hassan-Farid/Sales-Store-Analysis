@@ -4,8 +4,8 @@ In this project, we clean, process and analyze the data from excel file, and fin
 ## Screenshots
 
 ### Before Cleaning:
-Before Cleaning their was some issues in gender and QTY column.
-In gender column their was some 'W' for women and 'M' for Men, also in QTY column their was One for '1' and Two for '2'. Nothing wrong with that but I need these in correct for further processing.
+Before Cleaning there was some issues in gender and QTY column.
+In gender column there was some 'W' for women and 'M' for Men, also in QTY column there was One for '1' and Two for '2'. Nothing wrong with that but I need these in correct for further processing.
 
 ![Before Cleaning](https://github.com/Muhammad-Hassan-Farid/Sales-Store-Analysis/blob/master/Images/Before%20Cleaning.png?raw=true)
 
@@ -70,7 +70,7 @@ Finally the project is completed and Make a annual report of varinda store.
 
 •Amazon, Flipkart and mynta channels are the max contributing(80%)
 
-## Final Conculsion to improve Varinda store sales
+## Final Conclusion to improve Varinda store sales
 • Target women customers of age (30-49 yrs) living in Maharashtra, karnataka and Uttar Pradesh by showing ads/offers/coupns available on Amazon, Flipkart and Myntra.
 
 
