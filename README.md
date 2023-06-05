@@ -1,4 +1,5 @@
 # Sales Store Analysis
+![Chart Connection](https://github.com/Muhammad-Hassan-Farid/Sales-Store-Analysis/blob/master/Images/Varinda%20Store%20Annual%20Repprt.png?raw=true)
 
 In this project, we clean and analyze the data from excel file, and find the insights in the data.
 ## Screenshots
@@ -55,10 +56,10 @@ I use the slicer to connect the charts and get the relevent data that we want. I
 
 ![Chart Connection](https://github.com/Muhammad-Hassan-Farid/Sales-Store-Analysis/blob/master/Images/Chart%20Connection.png?raw=true)
 
-### Varinda Store Annual Report:
+### Store Annual Report:
 Finally the project is completed and Make a annual report of varinda store.
 
-![Chart Connection](https://github.com/Muhammad-Hassan-Farid/Sales-Store-Analysis/blob/master/Images/Varinda%20Store%20Annual%20Repprt.png?raw=true)
+![Annual Report](https://github.com/Muhammad-Hassan-Farid/Sales-Store-Analysis/blob/master/Images/Varinda%20Store%20Annual%20Repprt.png?raw=true)
 
 
 ## Insights:
