@@ -1,6 +1,6 @@
 # Sales Store Analysis
 
-In this project, we clean, process and analyze the data from excel file, and find the insights in the data.
+In this project, we clean and analyze the data from excel file, and find the insights in the data.
 ## Screenshots
 
 ### Before Cleaning:
